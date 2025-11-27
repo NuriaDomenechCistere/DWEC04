@@ -1,4 +1,0 @@
-chart
-
-https://blog.openreplay.com/es/usar-localstorage-javascript-guardar-recuperar-datos/
-https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Number
